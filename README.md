@@ -2,5 +2,8 @@
 
 <p align="center">
 <b>Hi there! I'm Adel 👋</b><br>
-I'm a full-stack developer, AI-enthusiast and occasional bug-writer. Welcome to my GitHub profile!
+Backend / Platform Engineer building and operating production web systems.
+Currently focused on backend engineering, DevOps, CI/CD, Linux, deployment automation, and reliability.
+
+Welcome to my GitHub profile!
 </p>
